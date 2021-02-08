@@ -10,4 +10,4 @@ Here's some random bullet points they have suggested as topics people who like t
 - 💩 I'm currently coding with Golang!  Previously, I used Ruby, Rails and J@v@Script.  I don't think you want me coding in J@v@Script at this point so I'm going to change some letters to sneakily prevent scrapers from spamming me to death about J@v@Script.
 - 🌱 I’m currently a big fan of [exercism.io](https://exercism.io/), [GoBridge's mentorship program](https://promo.qooper.io/organizations/MjE1) and [Sailor HG's](https://shop.bubblesort.io/) [FairyFloss Theme](http://sailorhg.github.io/fairyfloss/).
 - 💬 Ask me about the best carbs for each major US city.
-😄 Pronouns: she/her
+- 😄 Pronouns: she/her
